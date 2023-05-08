@@ -1,0 +1,8 @@
+.vscode
+mmdetection3d
+__pycache__
+ckpts
+work_dirs
+test
+wandb
+data
